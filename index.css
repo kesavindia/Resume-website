@@ -1,0 +1,25 @@
+h1{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.head-left{
+    width:20%;
+    float:left;
+}
+.head-right{
+    width:80%;
+    float:right;
+    text-align: right;
+}
+a{
+    margin-right: 30px;
+}
+.head{
+    height:7.5%;
+}
+.education{
+    margin-left:50px;
+    }
+.profession{
+    margin-left: 50px;
+}
